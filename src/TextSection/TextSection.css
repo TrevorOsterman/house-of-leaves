@@ -1,0 +1,10 @@
+.text-section {
+  padding: 20px;
+  width: 400px;
+  display: flex;
+  text-align: justify;
+}
+
+p.paragraph {
+  width: 100%;
+}

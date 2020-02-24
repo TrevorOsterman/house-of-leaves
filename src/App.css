@@ -1,0 +1,28 @@
+* {
+  font-family: "lcdSolid";
+  color: rgb(221, 131, 13);
+  font-size: 18px;
+}
+
+@@font-face {
+  font-family: "lcdSolid";
+  src: url(LcdSolid-VPzB.ttf);
+}
+
+body {
+  background-color: black;
+}
+
+.Window {
+  display: flex;
+  align-content: center;
+  width: 800px;
+  height: 400px;
+  margin: 2%;
+  border: 2vh double rgb(221, 131, 13);
+}
+
+.App {
+  display: flex;
+  align-content: center;
+}
